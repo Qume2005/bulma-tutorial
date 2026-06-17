@@ -1,0 +1,7 @@
+{
+  "name": "bulma-tutorial",
+  "version": "1.0.0",
+  "description": "Bulma CSS v1.x tutorial: an index router plus 7 topic skills (fundamentals, layout, elements, components, form, helpers, customize).",
+  "author": { "name": "Qume2005" },
+  "keywords": ["bulma", "css", "tutorial", "frontend", "framework"]
+}
